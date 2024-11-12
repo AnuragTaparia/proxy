@@ -2,9 +2,6 @@
 
 https://docs.mitmproxy.org/stable/concepts-certificates/#Quick%20Setup
 
-chatgpt
-https://chatgpt.com/c/66e5b2b0-47c8-8013-8dac-3580b1a5376c
-
 # Install the mitmproxy certificate:
 
 - For Browsers:
