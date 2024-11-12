@@ -17,8 +17,8 @@ https://docs.mitmproxy.org/stable/concepts-certificates/#Quick%20Setup
 
 - Before running make sure to set proxy to 127.0.0.01:8080
  ```bash
-  python Proxy_GUI.py
+python Proxy_GUI.py
   ```
 ```bash
-  mitmdump -s proxy.py
+mitmdump -s proxy.py
   ```
